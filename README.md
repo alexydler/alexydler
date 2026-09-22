@@ -187,5 +187,5 @@ CEUPE — En curso
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: coloca aquí tu URL de LinkedIn
+- 💼 LinkedIn: www.linkedin.com/in/alexander-ydler-a217bb1b9
 - 📧 Email: alexanderydler@gmail.com
